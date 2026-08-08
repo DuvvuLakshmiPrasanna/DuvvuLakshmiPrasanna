@@ -17,8 +17,8 @@
 ### 💫 About Me
 
 4th-year B.Tech Computer Science (Data Science) student and Full Stack Developer with hands-on experience building web and mobile
-applications. Proficient in React.js, Node.js, Python, Java and REST APIs, with a strong foundation in Data Structures & Algorithms<br>
-and OOP. Driven to deliver production-ready software that creates measurable impact.
+applications. Proficient in React.js, Node.js, Python, Java and REST APIs, with a strong foundation in Data Structures & Algorithms
+and OOP. Driven to deliver production-ready software that creates measurable impact.<br>
 📫 Reach me anytime at **prasannayadav2468@gmail.com**
 
 ---
