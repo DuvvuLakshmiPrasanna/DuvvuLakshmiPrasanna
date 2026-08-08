@@ -1,7 +1,7 @@
 # 
 # 👋 Hello! I'm Prasanna Yadav
 # 💫 About Me:
-🌟 B.Tech 3rd Year | CSE (Data Science)<br>💡 Skills:<br>Programming: C, C++, Java, Python<br>Frontend Development: HTML, CSS, Bootstrap, JS, REACT<br>Database: SQL, PL SQL<br>Core Competencies: Data Structures, Algorithms, OOPS
+🌟 B.Tech Data Science ’27 @ Aditya University<br>💡 Skills:<br>Programming: C, C++, Java, Python<br>Frontend Development: HTML, CSS, Bootstrap, JS, REACT<br>Database: SQL, PL SQL<br>Core Competencies: Data Structures, Algorithms, OOPS
 
 
 ## 🌐 Let’s connect:
