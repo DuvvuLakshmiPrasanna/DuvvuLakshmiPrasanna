@@ -16,10 +16,9 @@
 
 ### 💫 About Me
 
-🎓 **B.Tech in Data Science**, Aditya University (Class of 2027)
-💻 Passionate about building clean, functional projects across the stack
-📚 Always exploring new tools, frameworks, and ideas
-🌱 Growth-driven — I enjoy learning by building things end-to-end
+4th-year B.Tech Computer Science (Data Science) student and Full Stack Developer with hands-on experience building web and mobile
+applications. Proficient in React.js, Node.js, Python, Java and REST APIs, with a strong foundation in Data Structures & Algorithms
+and OOP. Driven to deliver production-ready software that creates measurable impact.
 📫 Reach me anytime at **prasannayadav2468@gmail.com**
 
 ---
