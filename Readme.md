@@ -81,10 +81,3 @@ and OOP. Driven to deliver production-ready software that creates measurable imp
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DuvvuLakshmiPrasanna/DuvvuLakshmiPrasanna/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-> ⚙️ The snake above shows a live animation of your contribution heatmap being eaten. It needs a one-time GitHub Actions setup — see below.
